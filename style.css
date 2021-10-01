@@ -1,0 +1,209 @@
+.general{
+background-color: black;
+
+color: white;
+}
+
+.generalp5{
+    background-color: crimson;
+
+    color: white;
+}
+
+.generalp4{
+    background-color: yellow;
+
+    color:black;
+}
+
+.generalp3{
+    background-color: cyan;
+
+    color: black;
+}
+
+.generalp2{
+    background-color: orangered;
+
+    color: white;
+}
+
+.generalp1{
+    background-color: plum;
+
+    color: white;
+}
+
+.navbar{
+    margin-bottom: 200px;
+    color: white;
+}
+
+.navbar a{
+    text-decoration: none;
+}
+
+.navbar .navbar-option1 {
+    width: 16%;
+
+    float: left;
+
+    text-align: center;
+
+    background-color: purple;
+
+    font-weight: bold;
+
+    border: 1px solid white;
+
+    height: 100%;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    list-style-type: none;
+}
+
+.navbar .NavP{
+    text-decoration: none;
+}
+
+.navbar .navbar-option2 {
+    width: 16%;
+
+    float: left;
+
+    text-align: center;
+
+    background-color: orangered;
+
+    font-weight: bold;
+
+    border: 1px solid white;
+
+    height: 100%;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    list-style-type: none;
+}
+
+.navbar .navbar-option3 {
+    width: 16%;
+
+    float: left;
+
+    text-align: center;
+
+    background-color: blue;
+
+    font-weight: bold;
+
+    border: 1px solid white;
+
+    height: 100%;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    list-style-type: none;
+}
+
+.navbar .navbar-option4 {
+    width: 16%;
+
+    float: left;
+
+    text-align: center;
+
+    background-color: yellow;
+
+    font-weight: bold;
+
+    border: 1px solid white;
+
+    height: 100%;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    list-style-type: none;
+}
+
+.navbar .navbar-option5 {
+    width: 16%;
+
+    float: left;
+
+    text-align: center;
+
+    background-color: red;
+
+    font-weight: bold;
+
+    border: 1px solid white;
+
+    height: 100%;
+
+    margin-left: 10px;
+
+    margin-right: 10px;
+
+    list-style-type: none;
+}
+
+.navbar .NavHome{
+    list-style-type: none;
+    
+}
+
+.navbar > ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.introduccion{
+    color: white;
+}
+
+.portada{
+    margin: 20px;
+
+    margin-left: 20%;
+
+    border: 1px solid white;
+}
+
+.portada3{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;   
+}
+
+.videos2{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.contactos{
+    margin-top: 50px;
+    color: black;
+    background-color: gray;
+}
+
+.titulos{
+    text-align: center;
+    
+    margin-top: 20px;
+
+    margin-bottom: 50px;
+}
